@@ -26,7 +26,11 @@ body {
       margin: 3rem auto auto 2rem;
       width: 20%;
 }
-
+p{
+      text-align: center:
+      font-family: sans-serif;
+      font-size: 32px;
+      font-weight: 700;
 @media screen and (min-width: 950px) {
       .lbl {
             display: flex;
